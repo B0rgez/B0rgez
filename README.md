@@ -54,6 +54,7 @@ Sou estudante da área de tecnologia, com base em lógica de programação, algo
 
 > Os repositórios refletem minha evolução contínua na área de tecnologia.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0rgez&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0rgez&show_icons=true&theme=transparent) 
 ---
 
 ## 📈 Objetivo Profissional
@@ -65,8 +66,9 @@ Busco oportunidades para **aprender na prática**, evoluir tecnicamente e constr
 ## 📫 Contato
 
 - [GitHub](https://github.com/B0rgez)  
-- :[LinkedIn](https://www.linkedin.com/in/enzoborgez/)
+- [LinkedIn](https://www.linkedin.com/in/enzoborgez/)
 
 ---
 
 ⭐ *Perfil em constante evolução. Sempre aprendendo.*
+
