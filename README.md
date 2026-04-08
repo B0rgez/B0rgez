@@ -1,58 +1,31 @@
 # 👋 Olá, eu sou o Enzo!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Focado em desenvolvimento de software e fundamentos da computação  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em desenvolvimento de software e web 
 📍 Brasil, Goiânia/GO
-
-Sou estudante da área de tecnologia, com base em lógica de programação, algoritmos e conceitos fundamentais de computação. Atualmente, estou aprofundando meus conhecimentos em **Programação Orientada a Objetos**, **Banco de Dados** e **Desenvolvimento Web**.
 
 ---
 
 ## 🧠 Conhecimentos Técnicos
 
-### 🔹 Linguagens
-- C
+### 🔹 Skills Tech
 - Delphi
-- Java (básico introdutório)  
+- Java
+- Spring Boot
 - JavaScript  
-- SQL  
-
-### 🔹 Desenvolvimento Web
 - HTML5  
-- CSS3  
-- JavaScript (DOM, eventos, lógica)
+- CSS3
+- ReactJS
+- NodeJS
 
 ### 🔹 Banco de Dados
 - PostgreSQL
 - MSSQL  
-- Modelagem relacional  
-- Comandos SQL (DDL e DML)
-
-### 🔹 Conceitos
-- Lógica de Programação
-- Programação Orientada a Objetos (POO)
-- Estruturas de Dados (conceitos básicos)
-- Redes de Computadores (fundamentos)
-- Arquitetura de Computadores
-
----
-
-## 🚀 O que estou estudando atualmente
-
-- Programação Orientada a Objetos
-- Desenvolvimento Front-end (HTML, CSS e JavaScript)
-- Versionamento de código com **Git e GitHub**
+- MongoDB
 
 ---
 
 ## 📂 Projetos
-
-🔹 Projetos acadêmicos e pessoais voltados ao aprendizado prático de:
-- Desenvolvimento Web
-- Lógica de Programação
-- Sistemas com foco em organização e boas práticas
-
-> Os repositórios refletem minha evolução contínua na área de tecnologia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0rgez&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0rgez&show_icons=true&theme=transparent) 
 ---
@@ -65,10 +38,6 @@ Busco oportunidades para **aprender na prática**, evoluir tecnicamente e constr
 
 ## 📫 Contato
 
-- [GitHub](https://github.com/B0rgez)  
 - [LinkedIn](https://www.linkedin.com/in/enzoborgez/)
 
----
-
 ⭐ *Perfil em constante evolução. Sempre aprendendo.*
-
